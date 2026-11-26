@@ -25,20 +25,20 @@ const santosPrimeirosSeculos = [
     },
 
     {
-    nome: "São Tarcísio",
-    categoria: "primeiros-seculos",
-    periodo: "primeiros-seculos",
-    nascimento: "c. século III",
-    localNascimento: "Roma, Itália",
-    morte: "c. 257",
-    localMorte: "Roma, Itália",
-    dataCanonizacao: "Canonização pré-congregacional",
-    dataCelebracao: "15/08",
-    classificacaoLiturgica: "Memória",
-    estadoDeVida: "Mártir",
-    descricao: "Jovem mártir romano que, segundo a tradição, morreu defendendo a Eucaristia que carregava, sendo venerado como padroeiro dos coroinhas.",
-    imagem: "assets/images/sao-tarcisio.jpg"
-},
+        nome: "São Tarcísio",
+        categoria: "primeiros-seculos",
+        periodo: "primeiros-seculos",
+        nascimento: "c. século III",
+        localNascimento: "Roma, Itália",
+        morte: "c. 257",
+        localMorte: "Roma, Itália",
+        dataCanonizacao: "Canonização pré-congregacional",
+        dataCelebracao: "15/08",
+        classificacaoLiturgica: "Memória",
+        estadoDeVida: "Mártir",
+        descricao: "Jovem mártir romano que, segundo a tradição, morreu defendendo a Eucaristia que carregava, sendo venerado como padroeiro dos coroinhas.",
+        imagem: "assets/images/sao-tarcisio.jpg"
+    },
 
 
 
@@ -59,83 +59,83 @@ const santosPrimeirosSeculos = [
     },
 
     {
-    nome: "Santo Adriano",
-    categoria: "primeiros-seculos",
-    periodo: "Primeiro Século",
-    nascimento: "c. 278",
-    localNascimento: "Constantinopla, Império Romano",
-    morte: "306",
-    localMorte: "Nicomédia",
-    dataCanonizacao: "Culto desde os primeiros séculos",
-    dataCelebracao: "08/09",
-    classificacaoLiturgica: "Memória facultativa",
-    estadoDeVida: "Soldado, mártir",
-    descricao: "Soldado da guarda imperial romana, Adriano perseguiu cristãos até presenciar o julgamento de 22 fiéis condenados à morte. Impressionado com a fé deles, converteu-se ao cristianismo junto com a esposa, Natália, e foi martirizado logo em seguida por se recusar a negar a Cristo.",
-    imagem: "assets/images/santo-adriano.jpg"
-},
-{
-    nome: "Santa Afra",
-    categoria: "primeiros-seculos",
-    periodo: "Primeiro Século",
-    nascimento: "Século III",
-    localNascimento: "Augsburgo, Império Romano",
-    morte: "304",
-    localMorte: "Augsburgo",
-    dataCanonizacao: "Culto desde os primeiros séculos",
-    dataCelebracao: "05/08",
-    classificacaoLiturgica: "Memória facultativa",
-    estadoDeVida: "Mártir, penitente",
-    descricao: "Convertida ao cristianismo pelo bispo São Narciso, Afra abandonou sua vida anterior e passou a viver sua fé com fervor. Durante a perseguição do imperador Diocleciano, recusou-se a sacrificar aos deuses pagãos e foi condenada à fogueira, morrendo como mártir em Augsburgo.",
-    imagem: "assets/images/santa-afra.jpg"
-},
-
-{
-    nome: "Santa Águeda",
-    categoria: "primeiros-seculos",
-    periodo: "Primeiro Século",
-    nascimento: "c. 231",
-    localNascimento: "Catânia ou Palermo, Sicília",
-    morte: "251",
-    localMorte: "Catânia",
-    dataCanonizacao: "Culto desde os primeiros séculos",
-    dataCelebracao: "05/02",
-    classificacaoLiturgica: "Memória obrigatória",
-    estadoDeVida: "Virgem, mártir",
-    descricao: "Jovem de família nobre, Águeda consagrou-se a Cristo ainda adolescente e recusou o pedido de casamento do governador da Sicília. Presa e torturada durante a perseguição do imperador Décio, manteve-se fiel à fé até a morte, sendo hoje padroeira das mulheres.",
-    imagem: "assets/images/santa-agueda.jpg"
-},
-
-{
-    nome: "Santa Ana",
-    categoria: "primeiros-seculos",
-    periodo: "Primeiro Século",
-    nascimento: "Desconhecido",
-    localNascimento: "Jerusalém",
-    morte: "Desconhecido",
-    localMorte: "Jerusalém",
-    dataCanonizacao: "Culto desde os primeiros séculos",
-    dataCelebracao: "26/07",
-    classificacaoLiturgica: "Memória obrigatória",
-    estadoDeVida: "Mãe de Maria, avó de Jesus",
-    descricao: "Segundo a tradição cristã, Ana e seu esposo Joaquim eram um casal idoso que, após anos de esterilidade, foram abençoados por Deus com o nascimento de Maria, mãe de Jesus. Por isso, Santa Ana é venerada como avó de Jesus Cristo e padroeira dos avós.",
-    imagem: "assets/images/santa-ana.jpg"
-},
+        nome: "Santo Adriano",
+        categoria: "primeiros-seculos",
+        periodo: "Primeiro Século",
+        nascimento: "c. 278",
+        localNascimento: "Constantinopla, Império Romano",
+        morte: "306",
+        localMorte: "Nicomédia",
+        dataCanonizacao: "Culto desde os primeiros séculos",
+        dataCelebracao: "08/09",
+        classificacaoLiturgica: "Memória facultativa",
+        estadoDeVida: "Soldado, mártir",
+        descricao: "Soldado da guarda imperial romana, Adriano perseguiu cristãos até presenciar o julgamento de 22 fiéis condenados à morte. Impressionado com a fé deles, converteu-se ao cristianismo junto com a esposa, Natália, e foi martirizado logo em seguida por se recusar a negar a Cristo.",
+        imagem: "assets/images/santo-adriano.jpg"
+    },
+    {
+        nome: "Santa Afra",
+        categoria: "primeiros-seculos",
+        periodo: "Primeiro Século",
+        nascimento: "Século III",
+        localNascimento: "Augsburgo, Império Romano",
+        morte: "304",
+        localMorte: "Augsburgo",
+        dataCanonizacao: "Culto desde os primeiros séculos",
+        dataCelebracao: "05/08",
+        classificacaoLiturgica: "Memória facultativa",
+        estadoDeVida: "Mártir, penitente",
+        descricao: "Convertida ao cristianismo pelo bispo São Narciso, Afra abandonou sua vida anterior e passou a viver sua fé com fervor. Durante a perseguição do imperador Diocleciano, recusou-se a sacrificar aos deuses pagãos e foi condenada à fogueira, morrendo como mártir em Augsburgo.",
+        imagem: "assets/images/santa-afra.jpg"
+    },
 
     {
-    nome: "São José",
-    categoria: "primeiros-seculos",
-    periodo: "Primeiro Século",
-    nascimento: "Desconhecido",
-    localNascimento: "Belém ou Nazaré",
-    morte: "Desconhecido",
-    localMorte: "Nazaré",
-    dataCanonizacao: "Culto desde os primeiros séculos",
-    dataCelebracao: "19/03",
-    classificacaoLiturgica: "Solenidade",
-    estadoDeVida: "Esposo de Nossa Senhora, pai adotivo de Jesus",
-    descricao: "Esposo de Maria e pai adotivo de Jesus Cristo, São José é o padroeiro da Igreja Universal e modelo de trabalhador. Conhecido por sua obediência e fé, aceitou o chamado de Deus mesmo diante de circunstâncias incomuns, protegendo e sustentando a Sagrada Família.",
-    imagem: "assets/images/sao-jose.jpg"
-},
+        nome: "Santa Águeda",
+        categoria: "primeiros-seculos",
+        periodo: "Primeiro Século",
+        nascimento: "c. 231",
+        localNascimento: "Catânia ou Palermo, Sicília",
+        morte: "251",
+        localMorte: "Catânia",
+        dataCanonizacao: "Culto desde os primeiros séculos",
+        dataCelebracao: "05/02",
+        classificacaoLiturgica: "Memória obrigatória",
+        estadoDeVida: "Virgem, mártir",
+        descricao: "Jovem de família nobre, Águeda consagrou-se a Cristo ainda adolescente e recusou o pedido de casamento do governador da Sicília. Presa e torturada durante a perseguição do imperador Décio, manteve-se fiel à fé até a morte, sendo hoje padroeira das mulheres.",
+        imagem: "assets/images/santa-agueda.jpg"
+    },
+
+    {
+        nome: "Santa Ana",
+        categoria: "primeiros-seculos",
+        periodo: "Primeiro Século",
+        nascimento: "Desconhecido",
+        localNascimento: "Jerusalém",
+        morte: "Desconhecido",
+        localMorte: "Jerusalém",
+        dataCanonizacao: "Culto desde os primeiros séculos",
+        dataCelebracao: "26/07",
+        classificacaoLiturgica: "Memória obrigatória",
+        estadoDeVida: "Mãe de Maria, avó de Jesus",
+        descricao: "Segundo a tradição cristã, Ana e seu esposo Joaquim eram um casal idoso que, após anos de esterilidade, foram abençoados por Deus com o nascimento de Maria, mãe de Jesus. Por isso, Santa Ana é venerada como avó de Jesus Cristo e padroeira dos avós.",
+        imagem: "assets/images/santa-ana.jpg"
+    },
+
+    {
+        nome: "São José",
+        categoria: "primeiros-seculos",
+        periodo: "Primeiro Século",
+        nascimento: "Desconhecido",
+        localNascimento: "Belém ou Nazaré",
+        morte: "Desconhecido",
+        localMorte: "Nazaré",
+        dataCanonizacao: "Culto desde os primeiros séculos",
+        dataCelebracao: "19/03",
+        classificacaoLiturgica: "Solenidade",
+        estadoDeVida: "Esposo de Nossa Senhora, pai adotivo de Jesus",
+        descricao: "Esposo de Maria e pai adotivo de Jesus Cristo, São José é o padroeiro da Igreja Universal e modelo de trabalhador. Conhecido por sua obediência e fé, aceitou o chamado de Deus mesmo diante de circunstâncias incomuns, protegendo e sustentando a Sagrada Família.",
+        imagem: "assets/images/sao-jose.jpg"
+    },
 
     {
         nome: "São João Evangelista",
@@ -202,20 +202,20 @@ const santosPrimeirosSeculos = [
     },
 
     {
-    nome: "Santo Aleixo",
-    categoria: "primeiros-seculos",
-    periodo: "Primeiro Século",
-    nascimento: "350",
-    localNascimento: "Roma",
-    morte: "17/07",
-    localMorte: "Roma",
-    dataCanonizacao: "Culto desde os primeiros séculos",
-    dataCelebracao: "17/07",
-    classificacaoLiturgica: "Memória facultativa",
-    estadoDeVida: "Peregrino, mendigo",
-    descricao: "Filho único de um senador romano, Aleixo abandonou riqueza e casamento na noite de núpcias para viver como mendigo em Edessa. Anos depois, voltou irreconhecível para a casa dos próprios pais, vivendo escondido sob as escadas por 17 anos até sua identidade ser revelada após a morte.",
-    imagem: "assets/images/santo-aleixo.jpg"
-},
+        nome: "Santo Aleixo",
+        categoria: "primeiros-seculos",
+        periodo: "Primeiro Século",
+        nascimento: "350",
+        localNascimento: "Roma",
+        morte: "17/07",
+        localMorte: "Roma",
+        dataCanonizacao: "Culto desde os primeiros séculos",
+        dataCelebracao: "17/07",
+        classificacaoLiturgica: "Memória facultativa",
+        estadoDeVida: "Peregrino, mendigo",
+        descricao: "Filho único de um senador romano, Aleixo abandonou riqueza e casamento na noite de núpcias para viver como mendigo em Edessa. Anos depois, voltou irreconhecível para a casa dos próprios pais, vivendo escondido sob as escadas por 17 anos até sua identidade ser revelada após a morte.",
+        imagem: "assets/images/santo-aleixo.jpg"
+    },
 
     {
         nome: "São Bartolomeu",
@@ -234,20 +234,20 @@ const santosPrimeirosSeculos = [
     },
 
     {
-    nome: "Santos Anjos da Guarda",
-    categoria: "primeiros-seculos",
-    periodo: "Primeiro Século",
-    nascimento: "Não se aplica",
-    localNascimento: "Não se aplica",
-    morte: "Não se aplica",
-    localMorte: "Não se aplica",
-    dataCanonizacao: "Dogma de fé desde os primeiros séculos",
-    dataCelebracao: "02/10",
-    classificacaoLiturgica: "Memória obrigatória",
-    estadoDeVida: "Espíritos celestiais protetores",
-    descricao: "A Igreja Católica celebra os Anjos da Guarda, espíritos celestiais que, segundo a tradição cristã, Deus designa para acompanhar e proteger cada pessoa desde o batismo. A data foi fixada em 1670 pelo Papa Clemente X, e a crença nos anjos protetores é considerada dogma de fé desde os primeiros concílios.",
-    imagem: "assets/images/santos-anjos-guarda.jpg"
-},
+        nome: "Santos Anjos da Guarda",
+        categoria: "primeiros-seculos",
+        periodo: "Primeiro Século",
+        nascimento: "Não se aplica",
+        localNascimento: "Não se aplica",
+        morte: "Não se aplica",
+        localMorte: "Não se aplica",
+        dataCanonizacao: "Dogma de fé desde os primeiros séculos",
+        dataCelebracao: "02/10",
+        classificacaoLiturgica: "Memória obrigatória",
+        estadoDeVida: "Espíritos celestiais protetores",
+        descricao: "A Igreja Católica celebra os Anjos da Guarda, espíritos celestiais que, segundo a tradição cristã, Deus designa para acompanhar e proteger cada pessoa desde o batismo. A data foi fixada em 1670 pelo Papa Clemente X, e a crença nos anjos protetores é considerada dogma de fé desde os primeiros concílios.",
+        imagem: "assets/images/santos-anjos-guarda.jpg"
+    },
 
     {
         nome: "São Tomé Apóstolo",
@@ -592,20 +592,20 @@ const santosMedievais = [
     },
 
     {
-    nome: "Santa Rita de Cássia",
-    categoria: "medievais",
-    periodo: "medievais",
-    nascimento: "1381",
-    localNascimento: "Roccaporena, Itália",
-    morte: "22/05/1457",
-    localMorte: "Cássia, Itália",
-    dataCanonizacao: "24/05/1900",
-    dataCelebracao: "22/05",
-    classificacaoLiturgica: "Memória",
-    estadoDeVida: "Religiosa agostiniana",
-    descricao: "Religiosa italiana conhecida como a 'santa dos casos impossíveis', venerada por sua vida de oração, perdão e dedicação após enfrentar um casamento difícil e a perda da família.",
-    imagem: "assets/images/santa-rita.jpg"
-},
+        nome: "Santa Rita de Cássia",
+        categoria: "medievais",
+        periodo: "medievais",
+        nascimento: "1381",
+        localNascimento: "Roccaporena, Itália",
+        morte: "22/05/1457",
+        localMorte: "Cássia, Itália",
+        dataCanonizacao: "24/05/1900",
+        dataCelebracao: "22/05",
+        classificacaoLiturgica: "Memória",
+        estadoDeVida: "Religiosa agostiniana",
+        descricao: "Religiosa italiana conhecida como a 'santa dos casos impossíveis', venerada por sua vida de oração, perdão e dedicação após enfrentar um casamento difícil e a perda da família.",
+        imagem: "assets/images/santa-rita.jpg"
+    },
 
 
     {
@@ -639,20 +639,20 @@ const santosMedievais = [
     },
 
     {
-    nome: "Santo Alberto Magno",
-    categoria: "medievais",
-    periodo: "Medieval",
-    nascimento: "c. 1200",
-    localNascimento: "Lauingen, Baviera (atual Alemanha)",
-    morte: "15/11/1280",
-    localMorte: "Colônia",
-    dataCanonizacao: "1931 (Papa Pio XI)",
-    dataCelebracao: "15/11",
-    classificacaoLiturgica: "Memória facultativa",
-    estadoDeVida: "Bispo, Doutor da Igreja",
-    descricao: "Frade dominicano conhecido como 'Doutor Universal', Alberto Magno dedicou a vida ao estudo da filosofia, teologia e ciências naturais, unindo fé e razão. Foi mestre de São Tomás de Aquino e é considerado padroeiro dos cientistas e estudantes de ciências naturais.",
-    imagem: "assets/images/santo-alberto-magno.jpg"
-},
+        nome: "Santo Alberto Magno",
+        categoria: "medievais",
+        periodo: "Medieval",
+        nascimento: "c. 1200",
+        localNascimento: "Lauingen, Baviera (atual Alemanha)",
+        morte: "15/11/1280",
+        localMorte: "Colônia",
+        dataCanonizacao: "1931 (Papa Pio XI)",
+        dataCelebracao: "15/11",
+        classificacaoLiturgica: "Memória facultativa",
+        estadoDeVida: "Bispo, Doutor da Igreja",
+        descricao: "Frade dominicano conhecido como 'Doutor Universal', Alberto Magno dedicou a vida ao estudo da filosofia, teologia e ciências naturais, unindo fé e razão. Foi mestre de São Tomás de Aquino e é considerado padroeiro dos cientistas e estudantes de ciências naturais.",
+        imagem: "assets/images/santo-alberto-magno.jpg"
+    },
 
     {
         nome: "São Beda, o Venerável",
@@ -939,7 +939,7 @@ const santosMedievais = [
         imagem: "assets/images/sao-casimiro.jpg"
     },
 
-    
+
 ];
 
 
@@ -1010,21 +1010,21 @@ const santosModernos = [
     },
 
 
-{
-    nome: "Santo Afonso Rodrigues",
-    categoria: "modernos",
-    periodo: "Moderno",
-    nascimento: "25/07/1532",
-    localNascimento: "Segóvia, Espanha",
-    morte: "31/10/1617",
-    localMorte: "Palma de Maiorca",
-    dataCanonizacao: "15/01/1888 (Papa Leão XIII)",
-    dataCelebracao: "31/10",
-    classificacaoLiturgica: "Memória facultativa",
-    estadoDeVida: "Irmão leigo jesuíta",
-    descricao: "Após enviuvar e perder dois filhos, Afonso ingressou na Companhia de Jesus como irmão leigo. Serviu como porteiro de um colégio jesuíta em Maiorca por 46 anos, tornando-se exemplo de humildade e vida espiritual profunda, além de diretor espiritual de São Pedro Claver.",
-    imagem: "assets/images/santo-afonso-rodrigues.jpg"
-},
+    {
+        nome: "Santo Afonso Rodrigues",
+        categoria: "modernos",
+        periodo: "Moderno",
+        nascimento: "25/07/1532",
+        localNascimento: "Segóvia, Espanha",
+        morte: "31/10/1617",
+        localMorte: "Palma de Maiorca",
+        dataCanonizacao: "15/01/1888 (Papa Leão XIII)",
+        dataCelebracao: "31/10",
+        classificacaoLiturgica: "Memória facultativa",
+        estadoDeVida: "Irmão leigo jesuíta",
+        descricao: "Após enviuvar e perder dois filhos, Afonso ingressou na Companhia de Jesus como irmão leigo. Serviu como porteiro de um colégio jesuíta em Maiorca por 46 anos, tornando-se exemplo de humildade e vida espiritual profunda, além de diretor espiritual de São Pedro Claver.",
+        imagem: "assets/images/santo-afonso-rodrigues.jpg"
+    },
 
     {
         nome: "São Pedro de Alcântara",
@@ -1176,20 +1176,6 @@ const santosModernos = [
         imagem: "assets/images/sao-joao-batista-de-la-salle.jpg"
     },
 
-    {
-        nome: "São João Maria Vianney",
-        periodo: "modernos",
-        nascimento: "08/05/1786",
-        localNascimento: "Dardilly, França",
-        morte: "04/08/1859",
-        localMorte: "Ars-sur-Formans, França",
-        dataCanonizacao: "31/05/1925",
-        dataCelebracao: "04/08",
-        classificacaoLiturgica: "Memória",
-        estadoDeVida: "Presbítero",
-        descricao: "Sacerdote francês conhecido como Cura d'Ars e por sua dedicação ao ministério pastoral.",
-        imagem: "assets/images/sao-joao-maria-vianney.jpg"
-    },
 
     {
         nome: "São Pedro Claver",
@@ -1372,35 +1358,35 @@ const santosModernos = [
     },
 
     {
-    nome: "Santa Ângela de Mérici",
-    categoria: "modernos",
-    periodo: "Moderno",
-    nascimento: "c. 1474",
-    localNascimento: "Desenzano del Garda, Itália",
-    morte: "27/01/1540",
-    localMorte: "Bréscia, Itália",
-    dataCanonizacao: "24/05/1807 (Papa Pio VII)",
-    dataCelebracao: "27/01",
-    classificacaoLiturgica: "Memória facultativa",
-    estadoDeVida: "Virgem, fundadora religiosa",
-    descricao: "Órfã ainda criança, Ângela teve uma visão da Virgem Maria que definiu sua vocação. Em 1535 fundou a Companhia de Santa Úrsula (Ursulinas), primeira ordem religiosa feminina dedicada à educação de meninas, com uma proposta inovadora: as irmãs viviam no mundo, sem clausura, votos formais ou hábito religioso.",
-    imagem: "assets/images/santa-angela-merici.jpg"
-},
-{
-    nome: "Santo Aníbal Maria di Francia",
-    categoria: "modernos",
-    periodo: "Moderno",
-    nascimento: "05/07/1851",
-    localNascimento: "Messina, Itália",
-    morte: "01/06/1927",
-    localMorte: "Messina, Itália",
-    dataCanonizacao: "16/05/2004 (Papa João Paulo II)",
-    dataCelebracao: "01/06",
-    classificacaoLiturgica: "Memória facultativa",
-    estadoDeVida: "Padre, fundador religioso",
-    descricao: "De família nobre, Aníbal dedicou a vida aos órfãos e pobres do bairro mais miserável de Messina. Fundou duas congregações religiosas, os Rogacionistas e as Filhas do Divino Zelo, dedicadas ao cuidado de crianças carentes e à oração pelas vocações sacerdotais, sendo conhecido como 'Pai dos pobres e dos órfãos'.",
-    imagem: "assets/images/santo-anibal-di-francia.jpg"
-},
+        nome: "Santa Ângela de Mérici",
+        categoria: "modernos",
+        periodo: "Moderno",
+        nascimento: "c. 1474",
+        localNascimento: "Desenzano del Garda, Itália",
+        morte: "27/01/1540",
+        localMorte: "Bréscia, Itália",
+        dataCanonizacao: "24/05/1807 (Papa Pio VII)",
+        dataCelebracao: "27/01",
+        classificacaoLiturgica: "Memória facultativa",
+        estadoDeVida: "Virgem, fundadora religiosa",
+        descricao: "Órfã ainda criança, Ângela teve uma visão da Virgem Maria que definiu sua vocação. Em 1535 fundou a Companhia de Santa Úrsula (Ursulinas), primeira ordem religiosa feminina dedicada à educação de meninas, com uma proposta inovadora: as irmãs viviam no mundo, sem clausura, votos formais ou hábito religioso.",
+        imagem: "assets/images/santa-angela-merici.jpg"
+    },
+    {
+        nome: "Santo Aníbal Maria di Francia",
+        categoria: "modernos",
+        periodo: "Moderno",
+        nascimento: "05/07/1851",
+        localNascimento: "Messina, Itália",
+        morte: "01/06/1927",
+        localMorte: "Messina, Itália",
+        dataCanonizacao: "16/05/2004 (Papa João Paulo II)",
+        dataCelebracao: "01/06",
+        classificacaoLiturgica: "Memória facultativa",
+        estadoDeVida: "Padre, fundador religioso",
+        descricao: "De família nobre, Aníbal dedicou a vida aos órfãos e pobres do bairro mais miserável de Messina. Fundou duas congregações religiosas, os Rogacionistas e as Filhas do Divino Zelo, dedicadas ao cuidado de crianças carentes e à oração pelas vocações sacerdotais, sendo conhecido como 'Pai dos pobres e dos órfãos'.",
+        imagem: "assets/images/santo-anibal-di-francia.jpg"
+    },
 
     {
         nome: "São Pedro Julião Eymard",
@@ -1429,22 +1415,6 @@ const santosContemporaneos = [
     // =====================================================
     // SÉCULO XIX
     // =====================================================
-
-    {
-        nome: "São Pedro Julião Eymard",
-        categoria: "contemporaneos",
-        periodo: "contemporaneos",
-        nascimento: "04/02/1811",
-        localNascimento: "La Mure, França",
-        morte: "01/08/1868",
-        localMorte: "La Mure, França",
-        dataCanonizacao: "09/12/1962",
-        dataCelebracao: "02/08",
-        classificacaoLiturgica: "Memória",
-        estadoDeVida: "Presbítero e fundador",
-        descricao: "Sacerdote francês, fundador da Congregação do Santíssimo Sacramento e grande propagador da devoção eucarística.",
-        imagem: "assets/images/sao-pedro-juliao-eymard.jpg"
-    },
 
     {
         nome: "São Pedro Luís Maria Chanel",
@@ -1723,35 +1693,19 @@ const santosContemporaneos = [
     },
 
     {
-    nome: "Santo André Dung-Lac e Companheiros",
-    categoria: "contemporaneos",
-    periodo: "Contemporâneo",
-    nascimento: "1795",
-    localNascimento: "Bac Ninh, Vietnã",
-    morte: "21/12/1839",
-    localMorte: "Cau-Giay, Vietnã",
-    dataCanonizacao: "1988 (Papa João Paulo II)",
-    dataCelebracao: "24/11",
-    classificacaoLiturgica: "Memória obrigatória",
-    estadoDeVida: "Padre, mártir",
-    descricao: "André Dung-Lac lidera a memória comum de 117 mártires do Vietnã, entre padres, religiosos e leigos, mortos entre 1830 e 1870 durante perseguições aos cristãos. Filho de família pobre, ordenou-se sacerdote em 1823 e recusava resgates pagos por sua libertação, dizendo que quem morre pela fé sobe ao céu.",
-    imagem: "assets/images/santo-andre-dung-lac.jpg"
-},
-
-    {
-        nome: "São João XXIII",
+        nome: "Santo André Dung-Lac e Companheiros",
         categoria: "contemporaneos",
-        periodo: "contemporaneos",
-        nascimento: "25/11/1881",
-        localNascimento: "Sotto il Monte, Itália",
-        morte: "03/06/1963",
-        localMorte: "Roma, Itália",
-        dataCanonizacao: "27/04/2014",
-        dataCelebracao: "11/10",
-        classificacaoLiturgica: "Memória",
-        estadoDeVida: "Papa",
-        descricao: "Papa que convocou o Concílio Vaticano II e promoveu uma ampla renovação da vida da Igreja.",
-        imagem: "assets/images/sao-joao-xxiii.jpg"
+        periodo: "Contemporâneo",
+        nascimento: "1795",
+        localNascimento: "Bac Ninh, Vietnã",
+        morte: "21/12/1839",
+        localMorte: "Cau-Giay, Vietnã",
+        dataCanonizacao: "1988 (Papa João Paulo II)",
+        dataCelebracao: "24/11",
+        classificacaoLiturgica: "Memória obrigatória",
+        estadoDeVida: "Padre, mártir",
+        descricao: "André Dung-Lac lidera a memória comum de 117 mártires do Vietnã, entre padres, religiosos e leigos, mortos entre 1830 e 1870 durante perseguições aos cristãos. Filho de família pobre, ordenou-se sacerdote em 1823 e recusava resgates pagos por sua libertação, dizendo que quem morre pela fé sobe ao céu.",
+        imagem: "assets/images/santo-andre-dung-lac.jpg"
     },
 
     {
@@ -1995,19 +1949,19 @@ const titulosMarianos = [
     },
 
     {
-    nome: "Nossa Senhora da Abadia",
-    dataCelebracao: "15/08",
-    origem: "Portugal (Mosteiro de Bouro)",
-    descricao: "Título dado à Virgem Maria com origem no Mosteiro de Santa Maria do Bouro, no norte de Portugal, por volta do ano 883. A devoção chegou ao Brasil através dos colonizadores portugueses e é hoje muito forte em Minas Gerais, Goiás e Mato Grosso do Sul.",
-    imagem: "assets/images/nossa-senhora-abadia.jpg"
-},
-{
-    nome: "Nossa Senhora dos Aflitos",
-    dataCelebracao: "24/09",
-    origem: "Itália",
-    descricao: "Este título mariano remete ao momento em que Jesus, na cruz, entregou Maria como mãe de toda a humanidade. A devoção começou na Itália, quando Santo Eusébio trouxe uma imagem de Nossa Senhora que foi colocada em um altar na Igreja de Santo André, em Turim.",
-    imagem: "assets/images/nossa-senhora-dos-aflitos.jpg"
-},
+        nome: "Nossa Senhora da Abadia",
+        dataCelebracao: "15/08",
+        origem: "Portugal (Mosteiro de Bouro)",
+        descricao: "Título dado à Virgem Maria com origem no Mosteiro de Santa Maria do Bouro, no norte de Portugal, por volta do ano 883. A devoção chegou ao Brasil através dos colonizadores portugueses e é hoje muito forte em Minas Gerais, Goiás e Mato Grosso do Sul.",
+        imagem: "assets/images/nossa-senhora-abadia.jpg"
+    },
+    {
+        nome: "Nossa Senhora dos Aflitos",
+        dataCelebracao: "24/09",
+        origem: "Itália",
+        descricao: "Este título mariano remete ao momento em que Jesus, na cruz, entregou Maria como mãe de toda a humanidade. A devoção começou na Itália, quando Santo Eusébio trouxe uma imagem de Nossa Senhora que foi colocada em um altar na Igreja de Santo André, em Turim.",
+        imagem: "assets/images/nossa-senhora-dos-aflitos.jpg"
+    },
 
     {
         nome: "Nossa Senhora da Assunção",
@@ -2055,12 +2009,12 @@ const titulosMarianos = [
     },
 
     {
-    nome: "Nossa Senhora do Alívio",
-    dataCelebracao: "07/09",
-    origem: "Portugal (Soutelo, Vila Verde)",
-    descricao: "Devoção originada em 1790 em Portugal, quando um padre gravemente enfermo atribuiu sua cura milagrosa à intercessão de Maria. Em agradecimento, construiu uma capela em sua honra, consagrada em 1798, que hoje é um dos santuários marianos mais visitados de Portugal.",
-    imagem: "assets/images/nossa-senhora-alivio.jpg"
-},
+        nome: "Nossa Senhora do Alívio",
+        dataCelebracao: "07/09",
+        origem: "Portugal (Soutelo, Vila Verde)",
+        descricao: "Devoção originada em 1790 em Portugal, quando um padre gravemente enfermo atribuiu sua cura milagrosa à intercessão de Maria. Em agradecimento, construiu uma capela em sua honra, consagrada em 1798, que hoje é um dos santuários marianos mais visitados de Portugal.",
+        imagem: "assets/images/nossa-senhora-alivio.jpg"
+    },
 
     {
         nome: "Nossa Senhora de Guadalupe",
@@ -2099,12 +2053,12 @@ const titulosMarianos = [
     },
 
     {
-    nome: "Nossa Senhora do Amparo",
-    dataCelebracao: "15/08",
-    origem: "Portugal",
-    descricao: "Título mariano que remete ao momento em que Jesus, na cruz, confiou sua mãe aos cuidados do discípulo João, representando o amparo mútuo dise do sofrimento. A devoção chegou ao Brasil com os colonizadores portugueses, dando origem a diversas cidades e paróquias dedicadas a ela.",
-    imagem: "assets/images/nossa-senhora-amparo.jpg"
-},
+        nome: "Nossa Senhora do Amparo",
+        dataCelebracao: "15/08",
+        origem: "Portugal",
+        descricao: "Título mariano que remete ao momento em que Jesus, na cruz, confiou sua mãe aos cuidados do discípulo João, representando o amparo mútuo dise do sofrimento. A devoção chegou ao Brasil com os colonizadores portugueses, dando origem a diversas cidades e paróquias dedicadas a ela.",
+        imagem: "assets/images/nossa-senhora-amparo.jpg"
+    },
 
     {
         nome: "Nossa Senhora do Rosário",
@@ -2116,12 +2070,12 @@ const titulosMarianos = [
     },
 
     {
-    nome: "Nossa Senhora da Agonia",
-    dataCelebracao: "20/08",
-    origem: "Portugal (Viana do Castelo)",
-    descricao: "Padroeira dos pescadores do norte de Portugal, essa devoção surgiu no século XVIII entre famílias que temiam pelos maridos e filhos que enfrentavam o mar revolto. É celebrada com uma das maiores romarias de Portugal, incluindo procissão marítima.",
-    imagem: "assets/images/nossa-senhora-agonia.jpg"
-},
+        nome: "Nossa Senhora da Agonia",
+        dataCelebracao: "20/08",
+        origem: "Portugal (Viana do Castelo)",
+        descricao: "Padroeira dos pescadores do norte de Portugal, essa devoção surgiu no século XVIII entre famílias que temiam pelos maridos e filhos que enfrentavam o mar revolto. É celebrada com uma das maiores romarias de Portugal, incluindo procissão marítima.",
+        imagem: "assets/images/nossa-senhora-agonia.jpg"
+    },
 
     {
         nome: "Nossa Senhora das Dores",
